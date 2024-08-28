@@ -1,0 +1,4 @@
+*.pkl
+*.ipynb
+/data_interactions/
+/checkpoints/
